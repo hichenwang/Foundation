@@ -5,7 +5,3 @@
 - Homework and feedback
 
 Code for the Lede Program 2017 Foundation class 
-
-
-
-ghjhgjgggj
